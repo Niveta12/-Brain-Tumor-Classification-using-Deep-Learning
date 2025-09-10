@@ -4,7 +4,6 @@ This project focuses on Brain Tumor Classification using Deep Learning. It lever
 
 📌**Introduction:**
 
-
 This project implements a Convolutional Neural Network (CNN) to classify brain MRI scans into four categories:
 
 1. Glioma Tumor
@@ -32,11 +31,11 @@ Brain tumor detection is a critical task in medical imaging. Automating this pro
 
 🔑**Tech Stack:**
 
-Languages: Python
+◦ Languages: Python
 
-Libraries: TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+◦ Libraries: TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-Dataset: MRI Brain Tumor images (Training + Testing split)
+◦ Dataset: MRI Brain Tumor images (Training + Testing split)
 
 
 🏗️**Model Architecture**
